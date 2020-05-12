@@ -1,9 +1,10 @@
 body{
-    background-color: #efee7e;
+    background-color: #7ecfef;
     font: "Georgia";
     color: #333333 ;
     margin: 0;
     padding: 0;
+    line-height: 1.5;
 }
 header{
     background-color: #333333;
@@ -38,4 +39,6 @@ img{
     width: 70%;
 }
 
-#contat
+#contact-info{
+    width: 30%;
+}
